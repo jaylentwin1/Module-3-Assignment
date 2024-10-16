@@ -1,0 +1,30 @@
+b { 
+    background-color: blueviolet;
+    color:white;
+}
+img {
+    width: 200px;
+    height: auto;
+}
+table, th, td {
+    border: 2px solid gray;
+}
+strong {
+    background-color: yellow;
+}
+
+main > p {
+    background-color: aqua;
+    color: blueviolet;
+}
+
+p > strong {
+    color: brown;
+}
+
+strong:hover{background-color: orange;}
+
+.names {
+    font-size: larger;
+    font-family: "Sans Serif";
+}
